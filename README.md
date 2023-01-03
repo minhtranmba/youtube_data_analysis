@@ -1,4 +1,4 @@
-<i>This is Part II. Below is just a reminder of the project. You can find Part I [here](https://github.com/minhtranmba/youtube_data_scraper).</i>
+<i>This is Part II. Below is just a reminder of the project. You can find Part I [here](https://github.com/minhtranmba/youtube_data_scraper).</i><br>
 To understand what people watch the most on Youtube in the US, I gathered video's data through [Youtube API v3](https://developers.google.com/youtube/v3/docs). The results returned by Search query via Youtube API contain approximately 200 records for each year from 2018 to 2022. Records are ordered by the number of views in descending order, telling us the most watched videos on Youtube. The dataset includes information below:
 <ul>
     <li>Video Title</li>
